@@ -1,0 +1,10 @@
+{
+  "name": "bower.json",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular-audio": "^1.7.1"
+  }
+}
