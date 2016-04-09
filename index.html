@@ -11,7 +11,7 @@
 <body>
 	<div ng-controller="audioCtrl">
 	<button ng-click='audio.paused ? audio.play() : audio.pause()'>Pause</button>
-	<button ng-click='audio.restart(); hello()'>Stop</button>
+	<button ng-click='audio.restart()'>Stop</button>
 	<button ng-click='audio.muting = !audio.muting'>Mute</button>
 	<label>Current Time</label>
 	<input class='form-control' type=text ng-model='audio.currentTime'>

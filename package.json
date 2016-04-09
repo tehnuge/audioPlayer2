@@ -1,0 +1,25 @@
+{
+  "name": "podcast-analytics",
+  "version": "1.0.0",
+  "description": "podcast-analytics",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "kerberos": "0.0.19",
+    "mongoose": "^4.4.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehnuge/audioPlayer2.git"
+  },
+  "author": "John D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehnuge/audioPlayer2/issues"
+  },
+  "homepage": "https://github.com/tehnuge/audioPlayer2#readme"
+}
