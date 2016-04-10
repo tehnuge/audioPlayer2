@@ -13,6 +13,7 @@ app.all('/*', function(req, res) {
 			</head>\
 			<body>\
 				<div ui-view>hello</div>\
+				<script src="bundle.js"></script>\
 			</body>\
 		</html>\
 		');
